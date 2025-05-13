@@ -1,0 +1,14 @@
+C:\Users\Lucas\OneDrive\Documentos\projetosJardimGourmetEstoque\bin\Debug\net9.0\projetosJardimGourmetEstoque.exe
+C:\Users\Lucas\OneDrive\Documentos\projetosJardimGourmetEstoque\bin\Debug\net9.0\projetosJardimGourmetEstoque.deps.json
+C:\Users\Lucas\OneDrive\Documentos\projetosJardimGourmetEstoque\bin\Debug\net9.0\projetosJardimGourmetEstoque.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Documentos\projetosJardimGourmetEstoque\bin\Debug\net9.0\projetosJardimGourmetEstoque.dll
+C:\Users\Lucas\OneDrive\Documentos\projetosJardimGourmetEstoque\bin\Debug\net9.0\projetosJardimGourmetEstoque.pdb
+C:\Users\Lucas\OneDrive\Documentos\projetosJardimGourmetEstoque\obj\Debug\net9.0\projetosJardimGourmetEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Documentos\projetosJardimGourmetEstoque\obj\Debug\net9.0\projetosJardimGourmetEstoque.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\projetosJardimGourmetEstoque\obj\Debug\net9.0\projetosJardimGourmetEstoque.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Documentos\projetosJardimGourmetEstoque\obj\Debug\net9.0\projetosJardimGourmetEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\projetosJardimGourmetEstoque\obj\Debug\net9.0\projetosJardimGourmetEstoque.dll
+C:\Users\Lucas\OneDrive\Documentos\projetosJardimGourmetEstoque\obj\Debug\net9.0\refint\projetosJardimGourmetEstoque.dll
+C:\Users\Lucas\OneDrive\Documentos\projetosJardimGourmetEstoque\obj\Debug\net9.0\projetosJardimGourmetEstoque.pdb
+C:\Users\Lucas\OneDrive\Documentos\projetosJardimGourmetEstoque\obj\Debug\net9.0\projetosJardimGourmetEstoque.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Documentos\projetosJardimGourmetEstoque\obj\Debug\net9.0\ref\projetosJardimGourmetEstoque.dll
