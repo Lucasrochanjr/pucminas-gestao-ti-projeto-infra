@@ -1,6 +1,6 @@
 # PUCMinas-gestao-ti-projeto-infra
 Software para gestão de estoque do "Jardim Espaço Gourmet". Implementação em C# visando aprendizado em desenvolvimento e infraestrutura de TI. PUC Minas -  Projeto Proposta de Infraestrutura. 
-# Nome do Projeto: Ex: Sistema de Gestão de Estoque - Jardim Espaço Gourmet
+# Sistema de Gestão de Estoque - Jardim Espaço Gourmet
 
 [![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellowgreen)]([URL_DO_SEU_REPOSITORIO_AQUI])
 
