@@ -4,7 +4,7 @@ Software para gestão de estoque do "Jardim Espaço Gourmet". Implementação em
 
 [![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellowgreen)]([URL_DO_SEU_REPOSITORIO_AQUI])
 
-Repositório do projeto de desenvolvimento de um sistema de gestão de estoque para o estabelecimento "Jardim Espaço Gourmet". Este projeto é parte dos requisitos da disciplina de **[Nome da Disciplina Aqui, ex: Gestão de TI / Projeto de Infraestrutura de TI]** do curso de [Nome do Seu Curso Aqui] da **[Nome da Instituição, ex: PUC Minas]**.
+Repositório do projeto de desenvolvimento de um sistema de gestão de estoque para o estabelecimento "Jardim Espaço Gourmet". Este projeto é parte dos requisitos da disciplina de **[Gestão de TI / Projeto de Infraestrutura de TI]** do curso de [Gestão da Tecnologia da Informação] da **[PUC Minas]**.
 
 ## 📑 Sumário
 
@@ -92,29 +92,4 @@ Para garantir escalabilidade, segurança, disponibilidade e facilitar a manuten�
 **Justificativa das Escolhas:**
 A AWS foi escolhida por sua liderança de mercado, vasta gama de serviços maduros, escalabilidade e modelo de pagamento conforme o uso, o que é ideal para um projeto que pode começar pequeno e crescer. Os serviços selecionados visam reduzir a carga operacional de gerenciamento de infraestrutura, permitindo que o foco permaneça no desenvolvimento das funcionalidades do sistema.
 
-*\[Opcional: Se você tiver um diagrama simples da arquitetura, pode adicionar um link para ele aqui ou incorporá-lo se o README for renderizado em uma plataforma que suporte imagens diretas de um subdiretório do projeto, como o GitHub.]*
-*Ex: [Link para o Diagrama da Arquitetura Proposta]([URL_PARA_SEU_DIAGRAMA_AQUI_SE_TIVER])*
 
-## 🚀 Como Executar (Versão Console Atual)
-
-**Pré-requisitos:**
-* [.NET SDK](https://dotnet.microsoft.com/download) (versão 6.0 ou superior recomendada)
-* Git (para clonar o repositório)
-
-**Passos:**
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [URL_DO_SEU_REPOSITORIO_AQUI]
-    ```
-2.  **Navegue até o diretório do projeto:**
-    ```bash
-    cd [NOME_DA_PASTA_DO_SEU_PROJETO_APOS_CLONAR]
-    ```
-3.  **Execute a aplicação:**
-    ```bash
-    dotnet run
-    ```
-    Isso irá compilar e executar o projeto `Program.cs`, e o menu da aplicação console será exibido no seu terminal.
-
-## 📁 Estrutura do Projeto
