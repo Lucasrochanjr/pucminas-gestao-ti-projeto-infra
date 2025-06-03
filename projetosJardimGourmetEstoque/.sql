@@ -13,6 +13,3 @@ CREATE TABLE IF NOT EXISTS `ItensEstoque` (
 );
 
 
-SELECT * FROM ItensEstoque;
-
-SELECT * FROM seu_jardim_gourmet_dbnew.ItensEstoque;
